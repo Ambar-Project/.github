@@ -1,132 +1,82 @@
 # 🌿⚡ Ambar.Code — **Programando com Eficiência e Propósito**
 
-> Uma linguagem de programação que une simplicidade, performance e sustentabilidade energética.
-
----
+> Uma linguagem de programação inovadora que unirá simplicidade, performance e sustentabilidade energética
 
 ## 🚀 Visão Geral
 
 Na era da tecnologia acelerada, onde a produtividade reina, **quantos se lembram da eficiência energética no desenvolvimento de software?**  
-É aí que entra o **Ambar.Code**: uma linguagem moderna, acessível e **ambientalmente consciente** 🌱.
+O **Ambar.Code** está sendo desenvolvido como uma linguagem moderna que buscará equilibrar:
 
----
+- Acessibilidade para desenvolvedores
+- Alto desempenho computacional
+- Consciência ambiental através da eficiência energética
 
-## 🔥 Destaques do Projeto
+## 🔥 Destaques Futuros
 
-✨ **Simplicidade para o iniciante**  
-⚙️ **Performance para o avançado**  
-⚡ **Eficiência energética como prioridade**
+✨ **Sintaxe intuitiva** para rápida aprendizagem  
+⚙️ **Performance otimizada** para aplicações intensivas  
+⚡ **Eficiência energética** como princípio fundamental  
 
-🔁 Compilação adaptativa  
-📊 Análise estatística integrada  
-🧠 Otimização de registradores e **lazy evaluation**  
-💡 Feedback visual sobre o impacto energético do código (em breve!)
+Planejamos implementar:
+- 🔁 Compilação adaptativa para diferentes arquiteturas
+- 📊 Análise estática avançada para otimizações
+- 🧠 Técnicas como lazy evaluation e otimização de registradores
+- 💡 Painel visual com métricas de consumo energético
 
----
+## 📌 O Problema Atual
 
-## 📌 Problema
+> - Softwares mal otimizados desperdiçam energia diariamente
+> - Linguagens populares não priorizam eficiência energética
+> - Linguagens eficientes possuem curva de aprendizado íngreme
 
-> Softwares mal otimizados desperdiçam energia todos os dias.  
-> A maioria das linguagens populares não foi projetada com foco energético.  
-> Iniciantes têm dificuldade em aprender linguagens eficientes devido à sua complexidade.
+## 💡 Nossa Proposta
 
----
+Estamos construindo uma **linguagem híbrida** que buscará:
+- Combinar a **facilidade de uso** de linguagens como Python
+- Com a **eficiência energética** de linguagens como Rust
+- Oferecer um **ecossistema educacional completo**
 
-## 💡 Nossa Solução
+## ⚙️ Stack Tecnológica
 
-Criamos uma **linguagem híbrida**, que combina:
-- A **facilidade de sintaxe** das linguagens didáticas;
-- Com a **eficiência energética** de linguagens de baixo nível.
+| Tecnologia | Finalidade Planejada |
+|------------|----------------------|
+| 🟧 C++ | Núcleo do compilador |
+| 🟨 Rust | Componentes críticos de performance |
+| ⚛️ LLVM | Análise e geração de código otimizado |
+| 📊 Python | Ferramentas de análise e benchmark |
 
-E mais: estamos desenvolvendo um **ecossistema completo de aprendizado** com conteúdos offline, explicações detalhadas e feedbacks em tempo real.
+## 📊 Metas e Objetivos
 
----
+- Reduzir em até 40% o consumo energético em comparação com Python/JS
+- Desenvolver um compilador com otimizações automáticas
+- Criar materiais educacionais sobre programação sustentável
+- Estabelecer métricas claras de eficiência energética
 
-## ⚙️ Tecnologias Utilizadas
+## 🌐 Alinhamento com ODS da ONU
 
-| Linguagem | Finalidade |
-|----------|-------------|
-| 🟧 C++ | Backend e compilador |
-| 🟨 JavaScript | Frontend |
-| ⚛️ Next.js | Frontend |
-| 🧪 LLVM | Análise e geração de bytecode eficiente |
+| Objetivo | Contribuição Planejada |
+|----------|------------------------|
+| 🎯 ODS 4 | Materiais educacionais acessíveis |
+| 🌍 ODS 13 | Redução da pegada de carbono digital |
+| 🌱 ODS 9 | Inovação em compiladores sustentáveis |
 
----
+## 🤝 Como Contribuir
 
-## 📊 Resultados Esperados
+Estamos no início desta jornada e sua ajuda será valiosa:
 
-🧠 Redução de até **40% no consumo energético** em aplicações pesadas  
-🌎 Cada aplicação pode economizar **até 9,6kg de CO₂ ao ano**  
-🎓 Plataforma educacional que **funciona offline** e ensina com profundidade  
-📉 Redução de gaps técnicos na formação de novos programadores
-
----
-
-## 🌐 Alinhamento com os ODS da ONU
-
-| Objetivo | Como contribuímos |
-|--------|------------------|
-| 🎯 ODS 4 – Educação de qualidade | Plataforma inclusiva e acessível |
-| 🌍 ODS 13 – Ação contra a mudança global do clima | Redução de emissões digitais |
-| 🌱 ODS 9 – Indústria, inovação e infraestrutura | Inovação em compilação energética |
-| 🤝 ODS 10 – Redução das desigualdades | Acesso sem internet, materiais gratuitos |
-
----
-
-## 🧪 Comparativos
-
-| Linguagem | Consumo energético médio (por tarefa) |
-|----------|---------------------------------------|
-| Python   | 🔴 60~70x mais que C++                 |
-| Java     | 🟠 20~25x mais que C++                 |
-| JavaScript | 🟡 15~20x mais que C++               |
-| **Ambar.Code** | 🟢 Pretende 5x mais que C++      | 
-
----
-
-## 📽️ Demonstração (Em breve...)
-
-> ⚙️ Veja o compilador em ação
-> 🎥 Navegue na plataforma educacional interativa
-> 🔍 Acompanhe o benchmark energético em tempo real
-
----
-
-## 📁 Estrutura do Projeto
-
-📦 AmbarCode/ ├── 📁 compiler/ │ └── ambar.cpp ├── 📁 platform/ │ ├── 📁 frontend/ (React) │ └── 📁 backend/ (Node.js) ├── 📁 docs/ │ └── README.md ├── 📁 analysis/ │ └── benchmarks.py └── 📁 assets/ └── branding, logos, gráficos
-
-
----
-
-## 🤝 Contribua!
-
-🔧 **Quer contribuir com o projeto?**  
-Estamos abertos a sugestões, melhorias, extensões e novos módulos!
-
-- Crie um fork 🍴  
-- Envie um PR 🧑‍💻  
-- Participe das discussões 💬
-
----
-
-## 🧠 Equipe
-
-👩‍💻 Equipe Ambar  
-> Apaixonados por código, educação e um futuro mais verde 🍃
-
----
+1. 🍴 Faça um fork do projeto
+2. 💡 Sugira melhorias ou novos recursos
+3. 🐛 Reporte problemas e bugs
+4. 📝 Ajude a documentação
 
 ## 📬 Contato
 
 📧 contato@ambarcode.org  
-🌐 [ambarcode.org](https://ambarcode.org) *(em construção)*  
-📸 Instagram: [@ambar.code](https://instagram.com/ambar.code)
+🌐 [Site em desenvolvimento]()  
+💬 [Discord da comunidade]()
 
 ---
 
-## 🌟 Frase final
+"Estamos construindo não apenas uma linguagem, mas um novo paradigma de desenvolvimento consciente."
 
-> "Ambar.Code, transformando cada linha de código em um passo rumo a um futuro mais eficiente."
-
----
+*Equipe Ambar.Code - 2023*
