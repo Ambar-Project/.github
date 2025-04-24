@@ -73,7 +73,6 @@ Estamos no início desta jornada e sua ajuda será valiosa:
 
 📧 contato@ambarcode.org  
 🌐 [Site em desenvolvimento]()  
-💬 [Discord da comunidade]()
 
 ---
 
