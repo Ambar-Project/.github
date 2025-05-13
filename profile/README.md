@@ -47,7 +47,7 @@ Estamos construindo uma **linguagem híbrida** que buscará:
 
 ## 📊 Metas e Objetivos
 
-- Reduzir em até 40% o consumo energético em comparação com Python/JS
+- Reduzir em até 40% o consumo energético em comparação com C++
 - Desenvolver um compilador com otimizações automáticas
 - Criar materiais educacionais sobre programação sustentável
 - Estabelecer métricas claras de eficiência energética
@@ -71,7 +71,7 @@ Estamos no início desta jornada e sua ajuda será valiosa:
 
 ## 📬 Contato
 
-📧 contato@ambarcode.org  
+📧 ambar.helper@gmail.com  
 🌐 [Site em desenvolvimento]()  
 
 ---
